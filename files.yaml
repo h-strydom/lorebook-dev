@@ -13,3 +13,4 @@
 - { blob: "blob:sha256-005fc41985abe4d8bb9ad91a87d4a4e4c19a3a4f03917d95cab35530166b4dc8", name: "Saltgate tide tables.csv", added: "2026-11-14T13:23:44Z" }
 - { blob: "blob:sha256-ecc12841aee538800da61930c1cccb70fe509c87188c3f73da96ce441ebcbce1", name: "Session 2 recap.txt", added: "2026-11-14T13:23:44Z" }
 - { blob: "blob:sha256-4fbad12380f6d81e216c07924544600760484abad928f1b99fa7de089a70266a", name: "Karrowdeep skyline study.svg", added: "2026-11-14T13:23:45Z" }
+- { blob: "blob:sha256-ce840636a15fc362c0fac969ea0a8da94b16854a5a719988177145ce9b361ae9", name: "veldmere-map.png", added: "2026-11-14T23:55:33Z" }
