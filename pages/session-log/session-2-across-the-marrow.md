@@ -6,7 +6,7 @@ tags: ["session", "port-haldane"]
 icon: "2️⃣"
 ---
 
-**In the world:** 4 to 6 Highsun. The company travels the sand tracks to [[Port Haldane]] and back, following a rumour about a ship that came in without a lamp.
+**In the world:** 4 to 6 Highsun. The company travels the sand tracks to [[Haldane Harbour]] and back, following a rumour about a ship that came in without a lamp.
 
 ## What happened
 

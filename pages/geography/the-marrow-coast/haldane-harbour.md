@@ -1,6 +1,6 @@
 ---
 id: 01M7D3MWSSD5RW01HBG9SSYNYN
-title: Port Haldane
+title: Haldane Harbour
 visibility: public
 tags: ["settlement", "marrow", "harbour"]
 aliases: ["Haldane"]

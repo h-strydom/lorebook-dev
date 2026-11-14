@@ -16,4 +16,4 @@ Three powers matter on the coast, and a fourth would rather you did not know it 
 | --- | --- | --- | --- |
 | Bellwardens | [[Saltgate]] | Discipline and the wall | Few in number, tired |
 | Lamplighters | Lamp Row | Information | Faithful to a fault |
-| Tidebound Court | [[Port Haldane]] | Money and writs | Slow, and hated |
+| Tidebound Court | [[Haldane Harbour]] | Money and writs | Slow, and hated |

@@ -9,7 +9,7 @@ icon: "🌊"
 
 The Marrow is a strip of reclaimed shore forty leagues long and never more than six wide. Behind it the hills rise quickly; in front of it the Hollow Sea breathes in and out twice a day with a force the older towns still call "the pull".
 
-Saltgate is the largest town and the seat of the [[Bellwardens]]. South of it the sand tracks run to [[Port Haldane]], the only deep harbour, and then dwindle into [[Dunmoor Fen]], where the land has never quite decided to be land.
+Saltgate is the largest town and the seat of the [[Bellwardens]]. South of it the sand tracks run to [[Haldane Harbour]], the only deep harbour, and then dwindle into [[Dunmoor Fen]], where the land has never quite decided to be land.
 
 ## Life behind the wall
 
