@@ -32,3 +32,7 @@ Sailors say a blue light has been seen under the pier at the turn of the tide. N
 The oldest document in town is the [[id:01M7D3N1XA0WENBW91NBD08Q2V|Tidebell Charter]], which still hangs in the Bellhouse porch.
 
 Tide times for the year are in :file[Saltgate tide tables.csv]{src="blob:sha256-005fc41985abe4d8bb9ad91a87d4a4e4c19a3a4f03917d95cab35530166b4dc8"}.
+
+## Weather
+
+Saltgate is windy for nine months of the year and foggy for the other three. The wardens ring the fog bell every quarter hour from Mistfall to Longnight.
