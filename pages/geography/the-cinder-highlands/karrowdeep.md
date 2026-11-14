@@ -9,7 +9,7 @@ icon: "⛏️"
 
 A city carved down into the mountain rather than built on it, Karrowdeep has nine levels above the Great Forge and, they say, nine below. Only the upper five are known to outsiders.
 
-The hold is ruled by a Council of Hammers, each seat held by a master smith chosen by lot from the guild's best. They are fair, slow and extremely stubborn. A request made to Karrowdeep takes three months to answer, and the answer is generally yes.
+The hold is ruled by a Council of Hammers, each seat held by a master smith chosen by lot from the guild's best. They are fair, slow and extremely stubborn. A request made to Karrowdeep takes three months to answer, and the answer is generally yes, with conditions.
 
 ## Trade and trouble
 
