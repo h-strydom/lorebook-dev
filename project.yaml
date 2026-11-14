@@ -1,2 +1,11 @@
 name: Veldmere
 calendar: veldmere
+today:
+  {
+    calendar: veldmere,
+    year: 14,
+    era: RL,
+    month: highsun,
+    day: 9,
+    abs: 170660
+  }
