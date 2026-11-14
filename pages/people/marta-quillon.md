@@ -22,7 +22,7 @@ To see the Bell-Warden's chair filled before she retires, and to find out who ha
 
 ## In play
 
-- She hires outsiders when she cannot ask her own wardens.
+- She hires outsiders when she cannot ask her own wardens, and pays them at the end of the job, never the start.
 - She will pay in silver and favours, never in secrets.
 - She trusts [[Sister Ilse of the Lanterns]] and does not trust [[Odric Vane]], though she has used him.
 
