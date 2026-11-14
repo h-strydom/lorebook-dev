@@ -1,3 +1,4 @@
 # The project's files: the blob, its own name and when it was added. Pages refer to blob:sha256-<hex>.
 - { blob: "blob:sha256-88c39575eb3b2a13240fe70a3d7d8ff0159cd155b1a4b0a3f9db27f343955f67", name: "Veldmere regional map.svg", added: "2026-11-14T13:23:42Z" }
 - { blob: "blob:sha256-c3e36f136d8774e121dd89a940b726e6d4f0ababf1ac7d2645bb962e71eed18a", name: "Saltgate survey.svg", added: "2026-11-14T13:23:43Z" }
+- { blob: "blob:sha256-c8150deedcad52c7571f3f20f77ca0c42a87abd7ed27edb695ce308ea15eecf5", name: "Bellwardens crest.svg", added: "2026-11-14T13:23:43Z" }
