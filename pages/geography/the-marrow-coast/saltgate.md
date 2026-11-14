@@ -23,7 +23,7 @@ Saltgate sits where the Marrow's only river reaches the sea, which is why it has
 
 ## Customs
 
-Each dusk the dusk bell closes the harbour chain; each dawn the dawn bell opens it. Nobody who lives here has ever heard the dawn bell ring *late*, and the town takes its pride in that.
+Each dusk the dusk bell closes the harbour chain; each dawn the dawn bell opens it. Lately the town has begun to count the strokes aloud, and nobody says why.
 
 :::info{title="Rumour"}
 Sailors say a blue light has been seen under the pier at the turn of the tide. Nobody has said whose lamp it is.
