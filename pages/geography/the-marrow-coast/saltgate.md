@@ -23,7 +23,7 @@ Saltgate sits where the Marrow's only river reaches the sea, which is why it has
 
 ## Customs
 
-Each dusk the dusk bell closes the harbour chain; each dawn the dawn bell opens it. Nobody who lives here has ever heard the dawn bell ring *late*, and the town takes its pride in that.
+Each dusk the dusk bell closes the harbour chain, and a warden walks the Underpier with a lamp until the dawn bell opens it again. The watch is the town's oldest unpaid job.
 
 :::info{title="Rumour"}
 Sailors say a blue light has been seen under the pier at the turn of the tide. Nobody has said whose lamp it is.
