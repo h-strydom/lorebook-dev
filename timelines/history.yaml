@@ -1,0 +1,140 @@
+# The invented history of Veldmere, for the showcase.
+title: History of Veldmere
+calendar: veldmere
+lanes:
+  - { id: realm, title: The realm }
+  - { id: saltgate, title: Saltgate and the wardens }
+  - { id: company, title: The company }
+events:
+  - id: sundering
+    lane: realm
+    title: "The Sundering"
+    start: { calendar: veldmere, year: 1, era: BS, month: longnight, day: 12, abs: 0 }
+    end: { calendar: veldmere, year: 1, era: BS, month: longnight, day: 14, abs: 0 }
+    link: "[[The Sundering]]"
+    visibility: public
+  - id: last-wars
+    lane: realm
+    title: "The lowland kingdoms' last wars"
+    start: { calendar: veldmere, year: 9, era: BS, abs: 0 }
+    end: { calendar: veldmere, year: 2, era: BS, abs: 0 }
+    visibility: public
+  - id: first-bell
+    lane: realm
+    title: "The first bell cast at Haldane"
+    start: { calendar: veldmere, year: 1, era: AB, month: seedfall, day: 4, abs: 0 }
+    link: "[[The Age of Bells]]"
+    visibility: public
+  - id: accord
+    lane: realm
+    title: "The Bell Accord"
+    start: { calendar: veldmere, year: 3, era: AB, month: greenreach, day: 10, abs: 0 }
+    visibility: public
+  - id: salt-war
+    lane: realm
+    title: "The Salt War"
+    start: { calendar: veldmere, year: 188, era: AB, abs: 0 }
+    end: { calendar: veldmere, year: 194, era: AB, abs: 0 }
+    link: "[[The Salt War]]"
+    visibility: public
+  - id: choir-born
+    lane: realm
+    title: "The Hollow Choir first sings"
+    start: { calendar: veldmere, year: 190, era: AB, month: mistfall, day: 5, abs: 0 }
+    link: "[[id:01M7D3MYMBEXDJ9JXM4P233FWB|The Hollow Choir]]"
+    visibility: hidden
+  - id: glass-road
+    lane: realm
+    title: "The Glass Road opens"
+    start: { calendar: veldmere, year: 260, era: AB, month: highsun, day: 1, abs: 0 }
+    visibility: public
+  - id: schism
+    lane: realm
+    title: "The Lamplighters' Schism"
+    start: { calendar: veldmere, year: 331, era: AB, month: gildenwane, day: 20, abs: 0 }
+    link: "[[Guild of Lamplighters]]"
+    visibility: public
+  - id: gates-sealed
+    lane: realm
+    title: "Karrowdeep seals its lower gates"
+    start: { calendar: veldmere, year: 399, era: AB, abs: 0 }
+    link: "[[id:01M7D3MXB9YVPC41KTV0BWNHN1|Karrowdeep]]"
+    visibility: hidden
+  - id: court
+    lane: realm
+    title: "The Tidebound Court is seated"
+    start: { calendar: veldmere, year: 405, era: AB, abs: 0 }
+    link: "[[The Tidebound Court]]"
+    visibility: public
+  - id: rekindling
+    lane: realm
+    title: "The Rekindling"
+    start: { calendar: veldmere, year: 1, era: RL, month: frostmere, day: 1, abs: 0 }
+    visibility: public
+  - id: founded
+    lane: saltgate
+    title: "Saltgate is founded"
+    start: { calendar: veldmere, year: 14, era: AB, month: seedfall, day: 9, abs: 0 }
+    link: "[[The Founding of Saltgate]]"
+    visibility: public
+  - id: bellhouse
+    lane: saltgate
+    title: "The Bellhouse is raised"
+    start: { calendar: veldmere, year: 14, era: AB, abs: 0 }
+    end: { calendar: veldmere, year: 22, era: AB, abs: 0 }
+    link: "[[The Bellhouse]]"
+    visibility: public
+  - id: charter
+    lane: saltgate
+    title: "The Tidebell Charter is sealed"
+    start: { calendar: veldmere, year: 412, era: AB, month: harvestide, day: 20, abs: 0 }
+    link: "[[The Tidebell Charter]]"
+    visibility: public
+  - id: famine
+    lane: saltgate
+    title: "The salt famine"
+    start: { calendar: veldmere, year: 455, era: AB, month: mistfall, day: 1, abs: 0 }
+    end: { calendar: veldmere, year: 456, era: AB, month: thawrun, day: 28, abs: 0 }
+    visibility: public
+  - id: quillon
+    lane: saltgate
+    title: "Marta Quillon takes the wall"
+    start: { calendar: veldmere, year: 2, era: RL, month: highsun, day: 1, abs: 0 }
+    link: "[[Marta Quillon]]"
+    visibility: public
+  - id: ledger
+    lane: saltgate
+    title: "Marta's ledger gains its first name"
+    start: { calendar: veldmere, year: 3, era: RL, month: longnight, day: 29, abs: 0 }
+    visibility: hidden
+  - id: s1
+    lane: company
+    title: "Session 1: the dawn bell rings twice"
+    start: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 3, abs: 0 }
+    link: "[[Session 1: The Dawn Bell Rings Twice]]"
+    visibility: public
+  - id: s2
+    lane: company
+    title: "Session 2: across the Marrow"
+    start: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 4, abs: 0 }
+    end: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 6, abs: 0 }
+    link: "[[Session 2: Across the Marrow]]"
+    visibility: public
+  - id: s3
+    lane: company
+    title: "Session 3: the blue lamp"
+    start: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 8, abs: 0 }
+    link: "[[Session 3: The Blue Lamp]]"
+    visibility: public
+  - id: drawing
+    lane: company
+    title: "Pell's drawing is found"
+    start: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 9, abs: 0 }
+    link: "[[id:01M7D3MZHBFEBK41EM4QVWQS5Y|Pell Threadwick]]"
+    visibility: hidden
+  - id: mass
+    lane: company
+    title: "The Bell Mass"
+    start: { calendar: veldmere, year: 14, era: RL, month: harvestide, day: 20, abs: 0 }
+    link: "[[The Bellhouse]]"
+    visibility: public
