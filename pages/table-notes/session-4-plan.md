@@ -2,6 +2,8 @@
 id: 01M7D3N30Z0P9H76N5GPCAWZ2B
 title: Session 4 Plan
 visibility: public
+tags: ["dm", "plan"]
+icon: "4️⃣"
 ---
 
 The company has been told about the Seventh Bell, whether or not they believe it. They are likely to ask around Lamp Row.

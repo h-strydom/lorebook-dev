@@ -2,6 +2,9 @@
 id: 01M7D3MX5AN2VPWBXQJHQE349Q
 title: The Cinder Highlands
 visibility: public
+tags: ["region", "highlands"]
+aliases: ["The Highlands", "Cinders"]
+icon: "🌋"
 ---
 
 The Highlands are what the world looked like before the sea arrived: black stone, hard rain and a sky the colour of old iron. Three volcanoes still smoke on clear days, and the whole range rings softly in the evenings as the rock cools.

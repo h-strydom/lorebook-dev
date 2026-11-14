@@ -2,6 +2,9 @@
 id: 01M7D3N1BPCDSH13BKS0XR7SY0
 title: The Age of Bells
 visibility: public
+tags: ["history", "era"]
+aliases: ["AB", "The Bell Age"]
+icon: "🔔"
 ---
 
 The Age of Bells begins with the casting of the first Tidebell in Port Haldane and the Bell Accord that followed. It was an age of walls: walls against the sea, walls against the dark, walls between the towns that had once been countries.

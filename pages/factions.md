@@ -2,6 +2,8 @@
 id: 01M7D3MXWT1ZG30DJB5FSB5221
 title: Factions
 visibility: public
+tags: ["faction", "overview"]
+icon: "🏛️"
 ---
 
 Three powers matter on the coast, and a fourth would rather you did not know it was a power. They agree on very little except that the bells must ring.

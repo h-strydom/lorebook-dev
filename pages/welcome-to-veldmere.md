@@ -2,6 +2,10 @@
 id: 01M7D3N0SRBKCGX5SQJKZQGAPC
 title: Welcome to Veldmere
 visibility: public
+tags: ["home", "overview"]
+aliases: ["Home", "Veldmere"]
+icon: "🌊"
+image: blob:sha256-88c39575eb3b2a13240fe70a3d7d8ff0159cd155b1a4b0a3f9db27f343955f67
 ---
 
 Veldmere is a thin country between a hungry sea and a smoking mountain, held together by bells, lamps and habit. This is the *showcase world* of Lorebook: an invented setting with a little of everything the wiki can do, so you can click around before you write your own.

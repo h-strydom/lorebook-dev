@@ -2,6 +2,9 @@
 id: 01M7D3N08EHGPWT6HFGPEGBCGA
 title: The Drowned Brother
 visibility: public
+tags: ["god", "sea", "religion"]
+aliases: ["The Brother", "The Sleeper"]
+icon: "🌊"
 ---
 
 A sailor's god, of sorts: the one who stayed behind when the Sundering took the lowlands. The coast does not pray to him. It thanks him, quietly, at the end of a safe voyage, the way you might thank a creditor who has not yet called in the debt.

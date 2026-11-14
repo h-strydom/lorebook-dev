@@ -2,6 +2,8 @@
 id: 01M7D3N1HG1D5JQQR96JZJWVSD
 title: The Salt War
 visibility: public
+tags: ["history", "war"]
+icon: "⚔️"
 ---
 
 A six-year conflict between the coastal towns and the Highland holds, fought over the price of salt and, underneath that, over who held the right to ring the bells.

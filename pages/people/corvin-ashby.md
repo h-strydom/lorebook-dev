@@ -2,6 +2,9 @@
 id: 01M7D3MZQ30N0A5XJREZAY2ZFN
 title: Corvin Ashby
 visibility: hidden
+tags: ["npc", "secret", "choir"]
+aliases: ["The Cantor"]
+icon: "🎼"
 ---
 
 A thin, tidy man in his fifties who the [[id:01M7D3MYMBEXDJ9JXM4P233FWB|Choir]] calls "the Cantor" and the rest of Saltgate has forgotten. He was a Bellwarden once, the youngest bell-keeper in a century, and he is the reason the Bell-Warden's chair has stood empty for eleven years.

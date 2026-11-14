@@ -2,6 +2,9 @@
 id: 01M7D3N15TZE7QCEX5WW4MWF04
 title: The Sundering
 visibility: public
+tags: ["history", "event", "sundering"]
+aliases: ["The Fall", "The Drowning"]
+icon: "💧"
 ---
 
 On the twelfth day of Longnight, in the last year of the old reckoning, the ground under the lowland kingdoms dropped. It dropped in an afternoon. By dusk the Hollow Sea had come in over four hundred leagues of fields, cities and roads, and by dawn it had stopped.

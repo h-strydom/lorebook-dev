@@ -2,6 +2,8 @@
 id: 01M7D3N2FAKHC07CBNAGS5H9G0
 title: "Session 1: The Dawn Bell Rings Twice"
 visibility: public
+tags: ["session", "saltgate"]
+icon: "1️⃣"
 ---
 
 **In the world:** 3 Highsun. The company arrives in [[Saltgate]] at the end of a long road, just as the dawn bell rings. It rings twice.

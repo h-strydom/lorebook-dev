@@ -2,6 +2,10 @@
 id: 01M7D3MY2PQ6CRHB5RPPGN6YNA
 title: The Bellwardens
 visibility: public
+tags: ["faction", "bellwardens", "saltgate"]
+aliases: ["Wardens", "The Order of the Bell"]
+icon: "🔔"
+image: blob:sha256-c8150deedcad52c7571f3f20f77ca0c42a87abd7ed27edb695ce308ea15eecf5
 ---
 
 The wardens are an order of four hundred men and women who have sworn to keep the bells ringing on time and the sea wall standing. They wear grey coats with a bronze bell at the collar, and they are very, very tired.

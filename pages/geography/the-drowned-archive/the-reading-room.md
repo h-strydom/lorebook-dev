@@ -2,6 +2,8 @@
 id: 01M7D3MXQ32FRXFYGMAG73T446
 title: The Reading Room
 visibility: public
+tags: ["location", "archive"]
+icon: "📖"
 ---
 
 The first and only chamber visitors have described, a round room with a floor of wet slate and a single table. The air smells of ink and low tide.

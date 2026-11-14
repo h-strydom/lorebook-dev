@@ -9,3 +9,5 @@ today:
     day: 9,
     abs: 170660
   }
+home: "[[Welcome to Veldmere]]"
+theme: { accent: "#c4893a" }

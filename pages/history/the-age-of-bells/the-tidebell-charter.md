@@ -2,6 +2,9 @@
 id: 01M7D3N1XA0WENBW91NBD08Q2V
 title: The Tidebell Charter
 visibility: public
+tags: ["document", "handout", "bellwardens"]
+aliases: ["Charter", "The Charter"]
+icon: "📜"
 ---
 
 The founding document of Saltgate's Bellwardens, sealed in AB 412 and kept in a glass case in the Bellhouse porch. It sets out the rights, duties and tithes of the order in three short articles.

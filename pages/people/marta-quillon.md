@@ -2,6 +2,10 @@
 id: 01M7D3MYZSGPW8CM1YD0C8H0PH
 title: Marta Quillon
 visibility: public
+tags: ["npc", "bellwardens", "saltgate"]
+aliases: ["The Captain", "Captain Quillon"]
+icon: "🛡️"
+image: blob:sha256-27265275412f905449cf54af05451edf0a10f0204c066ba2a8cbf7157c327ecd
 ---
 
 Captain of the Wall at Saltgate, fifty-one, broad as a door and quieter than one. She came up through the ranks of the [[The Bellwardens|wardens]] by being the person who was still awake when the bell had to be rung.

@@ -2,6 +2,8 @@
 id: 01M7D3MZWRK4CV6XXVA2MZ7WN2
 title: Pantheon
 visibility: public
+tags: ["religion", "overview"]
+icon: "✨"
 ---
 
 Veldmere's faith is plain and practical. There are two powers, and one of them is only barely a god.

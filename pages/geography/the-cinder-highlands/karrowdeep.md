@@ -2,6 +2,9 @@
 id: 01M7D3MXB9YVPC41KTV0BWNHN1
 title: Karrowdeep
 visibility: public
+tags: ["settlement", "highlands", "faction-hold"]
+aliases: ["The Hold"]
+icon: "⛏️"
 ---
 
 A city carved down into the mountain rather than built on it, Karrowdeep has nine levels above the Great Forge and, they say, nine below. Only the upper five are known to outsiders.

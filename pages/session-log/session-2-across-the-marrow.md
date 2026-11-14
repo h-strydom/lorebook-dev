@@ -2,6 +2,8 @@
 id: 01M7D3N2NBNNPYDBZDPJNH2MTS
 title: "Session 2: Across the Marrow"
 visibility: public
+tags: ["session", "port-haldane"]
+icon: "2️⃣"
 ---
 
 **In the world:** 4 to 6 Highsun. The company travels the sand tracks to [[Port Haldane]] and back, following a rumour about a ship that came in without a lamp.

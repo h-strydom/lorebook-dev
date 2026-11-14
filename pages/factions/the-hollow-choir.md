@@ -2,6 +2,9 @@
 id: 01M7D3MYMBEXDJ9JXM4P233FWB
 title: The Hollow Choir
 visibility: hidden
+tags: ["faction", "secret", "choir"]
+aliases: ["The Choir"]
+icon: "🎶"
 ---
 
 A quiet congregation of about thirty, meeting under [[id:01M7D3MZQ30N0A5XJREZAY2ZFN|a patron the town has forgotten]], who believe the sea is not an enemy but a debt, and that a debt unpaid grows.

@@ -2,6 +2,10 @@
 id: 01M7D3MYEBGGMMA3KFPBA2JMX8
 title: The Tidebound Court
 visibility: public
+tags: ["faction", "law", "port-haldane"]
+aliases: ["The Court", "Tidebound"]
+icon: "⚖️"
+image: blob:sha256-cade79cfbebfb98757cc65764c74238fdcdf814b6b0dada8a0b82174b0f84b59
 ---
 
 The Court is Veldmere's law. It sits in Port Haldane, in a grain exchange it never bothered to rename, and its judges are chosen by exam, bribe or inheritance in about equal proportions. They hear the cases of every town between the Highlands and the fen, and they charge by the day.

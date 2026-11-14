@@ -2,6 +2,8 @@
 id: 01M7D3MXH7DV96BWE9JXG3DDSP
 title: The Drowned Archive
 visibility: hidden
+tags: ["secret-location", "archive"]
+icon: "📚"
 ---
 
 Nobody agrees where it is. The oldest map puts it two leagues off the Marrow Coast; a smuggler's rhyme puts it under the Bellhouse itself. What everyone agrees on is that it holds the names of everyone the sea has taken since the Sundering, written in a hand that does not fade.

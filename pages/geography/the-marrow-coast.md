@@ -2,6 +2,9 @@
 id: 01M7D3MW8G9RFMHCCJWQ6EFQHX
 title: The Marrow Coast
 visibility: public
+tags: ["region", "coast", "marrow"]
+aliases: ["The Marrow", "Marrow"]
+icon: "🌊"
 ---
 
 The Marrow is a strip of reclaimed shore forty leagues long and never more than six wide. Behind it the hills rise quickly; in front of it the Hollow Sea breathes in and out twice a day with a force the older towns still call "the pull".

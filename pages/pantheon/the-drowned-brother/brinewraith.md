@@ -2,6 +2,9 @@
 id: 01M7D3N0E747XKK1NDVDA5BFXA
 title: Brinewraith
 visibility: public
+tags: ["monster", "undead", "sea"]
+aliases: ["Brine-Wraith", "Followers"]
+icon: "👻"
 ---
 
 A pale, upright figure about the height of a man, made of waterlogged cloth and cold salt, that walks out of the surf on the nights the Brother stirs. Brinewraiths do not attack; they *follow*, a few paces behind, and wait for you to say your name.

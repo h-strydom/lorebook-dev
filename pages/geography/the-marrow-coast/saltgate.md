@@ -2,6 +2,10 @@
 id: 01M7D3MWE8ZFMWWJC6XV01W0M1
 title: Saltgate
 visibility: public
+tags: ["settlement", "marrow", "bellwardens"]
+aliases: ["The Gate", "Saltgate Town"]
+icon: "🏘️"
+image: blob:sha256-c3e36f136d8774e121dd89a940b726e6d4f0ababf1ac7d2645bb962e71eed18a
 ---
 
 Saltgate sits where the Marrow's only river reaches the sea, which is why it has a wall higher than any other and a harbour mouth you could throw a stone across. It is a town of about four thousand people, nearly all of them related to someone in the [[The Bellwardens|Bellwardens]], the harbour guild, or both.

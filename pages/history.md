@@ -2,6 +2,8 @@
 id: 01M7D3N0ZXKRT1Q4CM8M76M9K1
 title: History
 visibility: public
+tags: ["history", "overview"]
+icon: "📜"
 ---
 
 Veldmere's history is told in two halves: *before the Sundering*, when the lowlands were dry and the kings were many, and *after*, when the sea was a neighbour and the bells were a wage.

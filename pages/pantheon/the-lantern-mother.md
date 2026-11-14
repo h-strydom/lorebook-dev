@@ -2,6 +2,9 @@
 id: 01M7D3N02H8YPKGKB4GP03F2YA
 title: The Lantern Mother
 visibility: public
+tags: ["god", "lamplighters", "religion"]
+aliases: ["The Keeper of Lamps"]
+icon: "🏮"
 ---
 
 The Lantern Mother is the goddess of every lit window. She does not command, bless or smite; she *keeps*. Her faithful believe that every lamp tended with care is a small gift to her, and that she remembers every one.

@@ -2,6 +2,8 @@
 id: 01M7D3MW2RZAG1E2JS841YJFBR
 title: Geography
 visibility: public
+tags: ["region", "overview"]
+icon: "🗺️"
 ---
 
 The lands of Veldmere hug a single long coast, with the Hollow Sea on one side and the smoking hills on the other. Almost everyone lives within a day's walk of a bell.

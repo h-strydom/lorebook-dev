@@ -2,6 +2,9 @@
 id: 01M7D3N0KZ25CT6ES4XFJX2B4Z
 title: The Three Moons
 visibility: public
+tags: ["moons", "religion", "calendar"]
+aliases: ["Orrin", "Veyra", "The Cinder Eye", "Moons"]
+icon: "🌙"
 ---
 
 Veldmere has three moons, and the tide-priests keep a careful count of them.

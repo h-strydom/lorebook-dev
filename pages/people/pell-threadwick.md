@@ -2,6 +2,9 @@
 id: 01M7D3MZHBFEBK41EM4QVWQS5Y
 title: Pell Threadwick
 visibility: public
+tags: ["npc", "child", "saltgate"]
+aliases: ["Pell"]
+icon: "🧵"
 ---
 
 Eight years old, the daughter of a net-mender, and the only person in Saltgate who has drawn the Seventh Bell. Her drawings are on the walls of the net loft: bells, boats and a tall, thin figure standing in the shallows where nobody ever stands.

@@ -2,6 +2,8 @@
 id: 01M7D3MWM2ATPYNVVHSB3Y1J38
 title: The Bellhouse
 visibility: public
+tags: ["location", "saltgate", "landmark"]
+icon: "🔔"
 ---
 
 A squat tower of black basalt, forty feet across and sixty high, with seven bells hung in its crown. It was the first building raised in Saltgate and the last the sea would ever take.

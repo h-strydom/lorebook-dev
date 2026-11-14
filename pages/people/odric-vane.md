@@ -2,6 +2,10 @@
 id: 01M7D3MZ5Q3H645H5FG17RG0J2
 title: Odric Vane
 visibility: public
+tags: ["npc", "smuggler", "saltgate"]
+aliases: ["The Underpier Man"]
+icon: "🧣"
+image: blob:sha256-7700687243eab080058cb8347bd8522e80956738f1d6869b93fb3126f2663d49
 ---
 
 A slim, cheerful man of about forty who runs the Underpier in [[Saltgate]] like an inn that happens to sell everything. He wears a red scarf, smokes a clay pipe and is, by his own account, merely a businessman with unusual customers.

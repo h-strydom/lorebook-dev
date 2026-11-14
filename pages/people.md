@@ -2,6 +2,8 @@
 id: 01M7D3MYSXE3AEJY72R7YW31QV
 title: People
 visibility: public
+tags: ["people", "overview"]
+icon: "👥"
 ---
 
 The people of Veldmere worth knowing, from wall-captains to fen-hermits. Titles and ranks change; faces do not.

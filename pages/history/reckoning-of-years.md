@@ -2,6 +2,8 @@
 id: 01M7D3N23DACG12YBAE2DEEYD6
 title: Reckoning of Years
 visibility: public
+tags: ["calendar", "reference"]
+icon: "🗓️"
 ---
 
 Veldmere counts days in a five-day week (Tern, Oar, Keel, Mast and Sail) and years in months of uneven length. Nine months, and three days of Wintermark between the old year and the new.

@@ -2,6 +2,10 @@
 id: 01M7D3MY8FXKA3A303C878A3XK
 title: Guild of Lamplighters
 visibility: public
+tags: ["faction", "lamplighters", "religion"]
+aliases: ["Lamplighters", "The Guild"]
+icon: "🏮"
+image: blob:sha256-f092056f698a9a18af750ae36b3aeeb71cd0db5aebe16a84aac4d498781e2121
 ---
 
 Every road in Veldmere has lamps at its crossings, and every lamp is lit and trimmed by a lamplighter. This was a trade once. Now it is a faith, a guild and the nearest thing the coast has to a postal service.

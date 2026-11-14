@@ -2,6 +2,8 @@
 id: 01M7D3MWZFQNWMXY233GCC181F
 title: Dunmoor Fen
 visibility: public
+tags: ["region", "marrow", "wilderness"]
+icon: "🌾"
 ---
 
 South of Port Haldane the Marrow loses its nerve. The fen is nine leagues of reed, black water and drowned hedgerows, with here and there a hill the size of a barn that turns out to be an old house roof.

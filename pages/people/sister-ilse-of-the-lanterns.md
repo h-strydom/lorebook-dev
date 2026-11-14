@@ -2,6 +2,10 @@
 id: 01M7D3MZBR5VZYY5HSN2GB8F92
 title: Sister Ilse of the Lanterns
 visibility: public
+tags: ["npc", "lamplighters", "saltgate"]
+aliases: ["Ilse", "Sister Ilse"]
+icon: "🕯️"
+image: blob:sha256-da5e3fc737cf5b8e7817340d98191711910b2793b496a37aade82283ab9c8ebd
 ---
 
 The senior [[Guild of Lamplighters|Lamplighter]] of Saltgate, seventy years old, silver-haired and about as soft as a keel. She has lit the lamps of Lamp Row every evening for fifty-four years and has never missed one, including the night she broke her hip.

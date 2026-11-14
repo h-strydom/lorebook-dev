@@ -2,6 +2,8 @@
 id: 01M7D3N29EWQJFTR2EVD0ZX239
 title: Session Log
 visibility: public
+tags: ["sessions", "overview"]
+icon: "📓"
 ---
 
 What the company has done, in order. Each session has its own page. Spoilers in the secrets are for the admin only.

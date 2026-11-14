@@ -2,6 +2,9 @@
 id: 01M7D3MWSSD5RW01HBG9SSYNYN
 title: Port Haldane
 visibility: public
+tags: ["settlement", "marrow", "harbour"]
+aliases: ["Haldane"]
+icon: "⚓"
 ---
 
 Port Haldane has the only harbour on the Marrow deep enough for the big grain ships, and it has never forgiven Saltgate for having the wall. It is a town of wharves and warehouses, loud and colder than Saltgate and a good deal more honest about its vices.
