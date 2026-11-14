@@ -1,16 +1,59 @@
 id: veldmere
-name: "Veldmere calendar"
-weekdays: [Day 1, Day 2, Day 3, Day 4, Day 5, Day 6, Day 7]
+name: Veldmere Reckoning
+year_zero: false
+weekdays: [Tern, Oar, Keel, Mast, Sail]
+week: { starts: Tern, reset: never }
 months:
-  - { id: month-1, name: Month 1, days: 30 }
-  - { id: month-2, name: Month 2, days: 30 }
-  - { id: month-3, name: Month 3, days: 30 }
-  - { id: month-4, name: Month 4, days: 30 }
-  - { id: month-5, name: Month 5, days: 30 }
-  - { id: month-6, name: Month 6, days: 30 }
-  - { id: month-7, name: Month 7, days: 30 }
-  - { id: month-8, name: Month 8, days: 30 }
-  - { id: month-9, name: Month 9, days: 30 }
-  - { id: month-10, name: Month 10, days: 30 }
-  - { id: month-11, name: Month 11, days: 30 }
-  - { id: month-12, name: Month 12, days: 30 }
+  - { id: frostmere, name: Frostmere, days: 30 }
+  - { id: thawrun, name: Thawrun, days: 28 }
+  - { id: seedfall, name: Seedfall, days: 31 }
+  - { id: greenreach, name: Greenreach, days: 33 }
+  - { id: highsun, name: Highsun, days: 35 }
+  - { id: gildenwane, name: Gildenwane, days: 29 }
+  - { id: harvestide, name: Harvestide, days: 32 }
+  - { id: mistfall, name: Mistfall, days: 27 }
+  - { id: longnight, name: Longnight, days: 30 }
+  - { id: wintermark, name: Wintermark, days: 3, intercalary: true, in_week: false }
+  - { id: tidegap, name: Tidegap, days: 0, intercalary: true }
+leap:
+  - name: Tidegap
+    every: 5
+    except:
+      - { every: 100 }
+    to: tidegap
+eras:
+  - { abbr: BS, name: Before the Sundering, direction: backward }
+  - { abbr: AB, name: Age of Bells, start_year: 100 }
+  - { abbr: RL, name: Reckoning of Lamps, start_year: 600 }
+festivals:
+  - { name: Seedfall Fair, on: { month: seedfall, day: 1 } }
+  - { name: Tide Blessing, on: { month: greenreach, day: 10 } }
+  - { name: Veyra's Feast, on: { month: highsun, day: 15 } }
+  - { name: Bell Mass, on: { month: harvestide, day: 20 } }
+  - { name: Lantern Night, on: { month: wintermark, day: 1 } }
+moons:
+  - name: Orrin
+    color: "#dfe6ee"
+    known: { phase: Dark, date: { era: AB, year: 1, month: frostmere, day: 1 } }
+    phases:
+      - { name: Dark, look: new, days: 2 }
+      - { name: Waxing crescent, look: waxing-crescent, days: 5 }
+      - { name: First quarter, look: first-quarter, days: 2 }
+      - { name: Waxing gibbous, look: waxing-gibbous, days: 5 }
+      - { name: Full, look: full, days: 2 }
+      - { name: Waning gibbous, look: waning-gibbous, days: 5 }
+      - { name: Last quarter, look: last-quarter, days: 2 }
+      - { name: Waning crescent, look: waning-crescent, days: 5 }
+  - name: Veyra
+    seed: veyra-wanders
+    color: "#e8b05a"
+    pin: { phase: Full, on: { month: highsun, day: 15 } }
+    phases:
+      - { name: Hidden, look: none, days: 40..60 }
+      - { name: Full, look: full, days: 3 }
+  - name: The Cinder Eye
+    color: "#d9503a"
+    phases:
+      - { name: Glow, look: full, days: 1 }
+conjunctions:
+  - { name: Twin Lights, moons: [Orrin, Veyra], look: full }
