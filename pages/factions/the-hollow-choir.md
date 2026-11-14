@@ -1,7 +1,7 @@
 ---
 id: 01M7D3MYMBEXDJ9JXM4P233FWB
 title: The Hollow Choir
-visibility: hidden
+visibility: public
 tags: ["faction", "secret", "choir"]
 aliases: ["The Choir"]
 icon: "🎶"
