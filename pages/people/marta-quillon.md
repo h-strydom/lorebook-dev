@@ -16,6 +16,10 @@ Captain of the Wall at Saltgate, fifty-one, broad as a door and quieter than one
 
 Soft-spoken and exact. She remembers names, debts and weather. She has never been seen to lose her temper, and the wardens who served under her will tell you, unprompted, that this is the frightening part.
 
+## Habits
+
+She walks the wall at the turn of each tide, alone, and counts the bells aloud under her breath.
+
 ## What she wants
 
 To see the Bell-Warden's chair filled before she retires, and to find out who has been stealing sleep from her wardens. She believes there is a person behind the trouble. She is right.
