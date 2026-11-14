@@ -1,0 +1,11 @@
+id: saltgatemap
+title: Saltgate
+visibility: public
+image: blob:sha256-417da6f2a7d57fd557a1ce64a73dfa6f32e287028a2a8b60417dfc3fc663dd10
+size: [2000, 1400]
+pins:
+  - { id: bellhouse, at: [1250, 700], label: The Bellhouse, link: "[[The Bellhouse]]", icon: church, visibility: public }
+  - { id: pier, at: [380, 760], label: The long pier, icon: sailboat, colour: "#1565c0", visibility: public }
+  - { id: marta, at: [1500, 420], label: Marta Quillon's shop, link: "[[Marta Quillon]]", icon: house, colour: "#c25e00", visibility: public }
+  - { id: choir, at: [1700, 1050], label: Hollow Choir hall, link: "[[The Hollow Choir]]", icon: star, colour: "#6a1b9a", visibility: public }
+  - { id: back, at: [120, 120], label: Veldmere, link: "map:veldmere", icon: flag, visibility: public }

@@ -1,0 +1,16 @@
+id: veldmeremap
+title: Veldmere
+visibility: public
+main: true
+image: blob:sha256-ce840636a15fc362c0fac969ea0a8da94b16854a5a719988177145ce9b361ae9
+size: [3000, 2000]
+pins:
+  - { id: saltgate, at: [1040, 980], label: Saltgate, link: "map:saltgate", icon: castle, visibility: public }
+  - { id: haldane, at: [960, 1500], label: Haldane Harbour, link: "[[Haldane Harbour]]", icon: anchor, colour: "#1565c0", visibility: public }
+  - { id: fen, at: [1280, 480], label: Dunmoor Fen, link: "[[Dunmoor Fen]]", icon: waves, colour: "#2e7d32", visibility: public }
+  - { id: highlands, at: [2500, 700], label: The Cinder Highlands, link: "[[The Cinder Highlands]]", icon: mountain, colour: "#5d4037", visibility: public }
+  - { id: karrowdeep, at: [2650, 1050], label: Karrowdeep, link: "[[Karrowdeep]]", icon: pickaxe, colour: "#c25e00", visibility: public }
+  - { id: archive, at: [600, 1200], label: The Drowned Archive, link: "[[The Drowned Archive]]", icon: landmark, colour: "#6a1b9a", visibility: public }
+  - { id: sundering, at: [1500, 1500], label: The Sundering, link: "[[The Sundering]]", icon: flame, colour: "#b3261e", visibility: public }
+  - { id: brinewraith, at: [400, 700], label: Brinewraith's Reach, link: "[[Brinewraith]]", icon: skull, visibility: hidden }
+  - { id: plan, at: [1150, 1100], label: Session 4 ambush, link: "[[Session 4 Plan]]", icon: swords, visibility: public }
