@@ -16,3 +16,5 @@ Corvin discovered, in AB 478, that every stroke of the Turner bell is paid for i
 He is right about the debt. He is wrong about the remedy. Play him as a man who has done the arithmetic and cannot unlearn it.
 ::::
 :::
+
+Since the Blue Lamp affair Corvin drinks at the Gull and Kettle on Lamp Row, and pays in old Tidebound coin.
