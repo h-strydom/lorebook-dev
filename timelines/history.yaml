@@ -138,3 +138,9 @@ events:
     start: { calendar: veldmere, year: 14, era: RL, month: harvestide, day: 20, abs: 0 }
     link: "[[The Bellhouse]]"
     visibility: public
+  - id: e6e36260a16
+    lane: realm
+    title: Blue lamp seen under the pier
+    start: { calendar: veldmere, year: 14, era: RL, month: highsun, day: 7, abs: 170658 }
+    link: "[[Saltgate]]"
+    visibility: hidden
