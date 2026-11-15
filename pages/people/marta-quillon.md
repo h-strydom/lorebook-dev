@@ -35,3 +35,7 @@ Marta keeps a small book listing every warden who has gone missing on the night 
 :::
 
 Marta has started selling bell-rope by the fathom to anyone who asks, which the wardens have noticed.
+
+:::info{title="Proposed by the archivist"}
+She keeps a ledger of who buys rope and when. The wardens would pay well for it.
+:::
