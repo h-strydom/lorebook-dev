@@ -17,3 +17,9 @@ The company has been told about the Seventh Bell, whether or not they believe it
 :::secret
 Optional reveal: [[Corvin Ashby]] is living in the net loft, in plain sight, under a false name.
 :::
+
+## Loose threads (archivist)
+
+- [x] Who paid the Fen Bridge keeper: [[Odric Vane]]
+- [ ] What the blue lamp under the pier signals
+- [ ] Whether Veyra rises before Veyra's Feast this year
