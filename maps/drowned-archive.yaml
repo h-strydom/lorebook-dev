@@ -1,0 +1,12 @@
+id: archivemap
+title: The Drowned Archive
+visibility: hidden
+image: blob:sha256-28bc85ca581c667844884c832a6027bf535caff47664a5a05e041c00ed58fd07
+size: [1800, 1300]
+pins:
+  - { id: entry, at: [360, 300], label: The flooded stair, icon: waves, colour: "#1565c0", visibility: public }
+  - { id: reading, at: [890, 250], label: The Reading Room, link: "[[The Reading Room]]", icon: landmark, visibility: public }
+  - { id: vault, at: [1450, 340], label: The sealed vault, icon: gem, colour: "#6a1b9a" }
+  - { id: choir, at: [380, 840], label: Choir cells, link: "[[The Hollow Choir]]", icon: skull, colour: "#b3261e", visibility: public }
+  - { id: pool, at: [1420, 900], label: The black pool, icon: flame, colour: "#c25e00" }
+  - { id: up, at: [850, 1080], label: Back to Veldmere, link: "map:veldmere", icon: flag, visibility: public }
