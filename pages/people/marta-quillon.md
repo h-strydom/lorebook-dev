@@ -33,3 +33,5 @@ To see the Bell-Warden's chair filled before she retires, and to find out who ha
 :::secret{title="Her private ledger"}
 Marta keeps a small book listing every warden who has gone missing on the night watch. There are sixty-one names. She has told nobody, because she does not know whether telling would help.
 :::
+
+Marta has started selling bell-rope by the fathom to anyone who asks, which the wardens have noticed.
