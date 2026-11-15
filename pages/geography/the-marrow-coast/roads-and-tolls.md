@@ -32,8 +32,8 @@ Flat barges come down from [[Karrowdeep]] with glass and ore. The bargefolk keep
 
 ## Tolls at a glance
 
-::::table
-:::row
+:::::table
+::::row
 :::cell{header}
 Crossing
 :::
@@ -43,8 +43,8 @@ Toll
 :::cell{header}
 Who skips it
 :::
-:::
-:::row
+::::
+::::row
 :::cell
 Fen Bridge
 :::
@@ -55,8 +55,8 @@ One copper a wheel
 - Bellwardens on duty
 - Anyone carrying a lamp-oil seal
 :::
-:::
-:::row
+::::
+::::row
 :::cell
 Salt Lock
 :::
@@ -66,8 +66,8 @@ A tenth of the cargo, paid in kind
 :::cell
 Nobody, officially
 :::
-:::
 ::::
+:::::
 
 The full schedule the wardens post at each crossing: :file[toll-schedule.csv]{src="blob:sha256-005fc41985abe4d8bb9ad91a87d4a4e4c19a3a4f03917d95cab35530166b4dc8"}
 
