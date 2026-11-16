@@ -11,3 +11,4 @@ today:
   }
 home: "[[Welcome to Veldmere]]"
 theme: { accent: "#c4893a" }
+visibility: public
